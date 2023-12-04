@@ -12,5 +12,6 @@ test_read = pd.read_csv(test_path)
 
 test_data = test_read.iloc[:,2:]
 
-print(test_data)
 
+
+print(round(3.1378876,4))
